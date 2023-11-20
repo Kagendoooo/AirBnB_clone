@@ -1,4 +1,1 @@
-## 0x01. AirBnB clone - Web static
-* HTML
-* CSS
-* Front-end
+This is my Airbnb clone webstatic readme
